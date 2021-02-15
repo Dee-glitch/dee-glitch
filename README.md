@@ -2,7 +2,7 @@
 
 A web developer, language enthusiast(both human and computer), a vivid reader and a lifelong learner.
 
-I'm passionate about programming and learning. In my free time, I like to read books and to dance and take long hikes.
+I'm passionate about programming and learning. In my free time, I like reading books, dancing and taking long hikes.
 
     🔭 I’m a student at the Hack Your Future Organization
     🌱 Currently learning JavaScript/React and Dutch
