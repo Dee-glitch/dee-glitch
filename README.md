@@ -2,12 +2,13 @@
 
 A web developer, language enthusiast(both human and computer), a vivid reader and a lifelong learner.
 
-I'm passionate about programming and learning. In my free time, I like reading books, dancing and taking long hikes.
+I'm passionate about programming and learning. 
+In my free time, I like juggling multiple DIY projects, dancing and taking long hikes.
 
     🔭 I’m a student at the Hack Your Future Organization
     🌱 Currently learning JavaScript/React and Dutch
-    👯 Looking to collaborate on JavaScript open source projects and anything that makes topics more available to others.
-    💬 Ask me about tips for learning human languages or other foreign stuff. 
+    👯 Looking to collaborate on JavaScript open source projects and anything that makes topics that give me more experience.
+    💬 Ask me about tips for learning human languages or living in several countries. 
     ⚡ Fun fact: I am fluent in 5 languanges
 
 
