@@ -11,8 +11,12 @@ In my free time, I like juggling multiple DIY projects, dancing and taking long 
     💬 Ask me about tips for learning human languages or living in several countries. 
     ⚡ Fun fact: I am fluent in 5 languanges
 
+ <p>
+ <a href="https://www.linkedin.com/in/namale20/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    &&
+ <a href="mailto:deedee.namale@gmail.com">Email</a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dee-glitch&show_icons=true&theme=tokyonight)![GitHub stats](https://github-readme-stats.vercel.app/api?username=dee-glitch&show_icons=true&theme=tokyonight)
 <!--
 **Dee-glitch/dee-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
