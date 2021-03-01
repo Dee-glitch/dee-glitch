@@ -12,7 +12,7 @@ In my free time, I like juggling multiple DIY projects, dancing and taking long 
     ⚡ Fun fact: I am fluent in 5 languanges
 
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dee-glitch&show_icons=true&theme=tokyonight)![GitHub stats](https://github-readme-stats.vercel.app/api?username=dee-glitch&show_icons=true&theme=tokyonight)
 <!--
 **Dee-glitch/dee-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
