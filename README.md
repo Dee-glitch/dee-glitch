@@ -2,19 +2,15 @@
 
 A web developer, language enthusiast(both human and computer), a vivid reader and a lifelong learner.
 
-I'm passionate about programming and learning.<br>
+I'm passionate about programming and learning new things.<br>
 In my free time, I like juggling multiple DIY projects, dancing in the rain and taking long hikes.
 
     🔭 I’m a student at the Hack Your Future Organization
     🌱 Currently learning JavaScript/React and Dutch
     👯 Looking to collaborate on JavaScript open source projects and building projects that give me more experience.
     💬 Ask me about tips for learning human languages.
+    📫 How to reach me: <a href="https://www.linkedin.com/in/namale20/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
- <p>
- <a href="https://www.linkedin.com/in/namale20/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-    &&
- <a href="mailto:deedee.namale@gmail.com">Email</a>
-</p>
 
 <!--
 **Dee-glitch/dee-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
