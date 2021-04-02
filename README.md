@@ -9,7 +9,7 @@ In my free time, I like juggling multiple DIY projects, dancing in the rain and 
     🌱 Currently learning JavaScript/React and Dutch
     👯 Looking to collaborate on JavaScript open source projects and building projects that give me more experience.
     💬 Ask me about tips for learning human languages.
-    📫 How to reach me: <a href="https://www.linkedin.com/in/namale20/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/namale20/)
 
 
 <!--
