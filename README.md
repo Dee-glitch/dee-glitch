@@ -5,8 +5,8 @@ A web developer, language enthusiast(both human and computer), a vivid reader an
 I'm passionate about programming and learning new things.<br>
 In my free time, I like juggling multiple DIY projects, dancing in the rain and taking long hikes.
 
-    🔭 I’m a student at the Hack Your Future Organization
-    🌱 Currently learning JavaScript/React and Dutch
+    🔭 I’m a software development student
+    🌱 Currently learning Backend development
     👯 Looking to collaborate on JavaScript open source projects and building projects that give me more experience.
     💬 Ask me about tips for learning human languages.
    [LinkedIn](https://www.linkedin.com/in/namale20/)
