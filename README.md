@@ -3,7 +3,7 @@
 A web developer, language enthusiast(both human and computer), a vivid reader and a lifelong learner.
 
 I'm passionate about programming and learning new things.<br>
-In my free time, I like juggling multiple DIY projects, dancing in the rain and taking long hikes.
+In my free time, I like juggling multiple DIY projects, biking in the rain and taking long hikes.
 
     🔭 I’m a software development student
     🌱 Currently looking for internship opportunities
