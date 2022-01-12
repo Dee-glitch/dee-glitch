@@ -8,7 +8,8 @@ In my free time, I like juggling multiple DIY projects, biking in the rain and t
     🔭 I’m a junior frontend developer
     🌱 Interested in collaborating on open source projects that faciitate green coding.
     💬 Ask me about tips for learning human languages.
-    📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/namale20/)
+   
+   📫 [LinkedIn](https://www.linkedin.com/in/namale20/)
    
 <!--
 **Dee-glitch/dee-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
