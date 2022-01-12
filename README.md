@@ -1,16 +1,15 @@
 ### Hello, 👋 I'm Deedee
 
-A web developer, language enthusiast(both human and computer), a vivid reader and a lifelong learner.
+A software developer, language enthusiast(both human and computer), a vivid reader and a lifelong learner.
 
 I'm passionate about programming and learning new things.<br>
 In my free time, I like juggling multiple DIY projects, biking in the rain and taking long hikes.
 
-    🔭 I’m a software development student
-    🌱 Currently looking for internship opportunities
-    👯 Looking to collaborate on JavaScript open source projects and building projects that give me more experience.
+    🔭 I’m a junior frontend developer
+    🌱 Interested in collaborating on open source projects that faciitate green coding.
     💬 Ask me about tips for learning human languages.
-   [LinkedIn](https://www.linkedin.com/in/namale20/)
-
+    📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/namale20/)
+   
 <!--
 **Dee-glitch/dee-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
